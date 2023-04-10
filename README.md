@@ -177,12 +177,12 @@ El proyecto cuenta con componentes desarrollados en JavaScript, que **solo** deb
 La finalidad de los mismos es facilitar el desarrollo, otorgando componentes que se encuentran correctamente estileados.
 
 Lista de componentes:
-* [src/componentes/layout/encabezado.componente.jsx](src/componentes/layout/encabezado.componente.jsx) - Encabezado requerido para cada una de las páginas. Facilita la navegación
-* [src/componentes/personajes/filtros.componente.tsx](src/componentes/personajes/filtros.componente.tsx) - Componente con el input text para realizar el filtrado
-* [src/componentes/personajes/grilla-personajes.componente.jsx](src/componentes/personajes/grilla-personajes.componente.jsx) - Grilla de personajes para la pagina de inicio
-* [src/componentes/personajes/tarjeta-personaje.componente.tsx](src/componentes/personajes/tarjeta-personaje.componente.tsx) - Tarjeta para cada personaje dentro de la grilla de personajes.
-* [src/componentes/botones/boton-favorito.componente.jsx](src/componentes/botones/boton-favorito.componente.jsx) - Boton que indica si un elemento es favorito o no, y da la posibilidad de marcarlo/desmarcarlo
-* [src/componentes/episodios/tarjeta-episodio.componente.tsx](src/componentes/episodios/tarjeta-episodio.componente.tsx) - Tarjeta para cada episodio dentro de la vista de personaje.
+* [src/components/layout/encabezado.componente.jsx](src/components/layout/encabezado.componente.jsx) - Encabezado requerido para cada una de las páginas. Facilita la navegación
+* [src/components/personajes/filtros.componente.tsx](src/components/personajes/filtros.componente.tsx) - Componente con el input text para realizar el filtrado
+* [src/components/personajes/grilla-personajes.componente.jsx](src/components/personajes/grilla-personajes.componente.jsx) - Grilla de personajes para la pagina de inicio
+* [src/components/personajes/tarjeta-personaje.componente.tsx](src/components/personajes/tarjeta-personaje.componente.tsx) - Tarjeta para cada personaje dentro de la grilla de personajes.
+* [src/components/botones/boton-favorito.componente.jsx](src/components/botones/boton-favorito.componente.jsx) - Boton que indica si un elemento es favorito o no, y da la posibilidad de marcarlo/desmarcarlo
+* [src/components/episodios/tarjeta-episodio.componente.tsx](src/components/episodios/tarjeta-episodio.componente.tsx) - Tarjeta para cada episodio dentro de la vista de personaje.
 
 ## Entrega
 

@@ -32,3 +32,9 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
 }
+
+.gif-container{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}

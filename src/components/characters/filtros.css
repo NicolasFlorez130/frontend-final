@@ -1,0 +1,19 @@
+.filtros {
+   display: grid;
+   grid-template-columns: 4fr 1fr;
+   margin-bottom: 20px;
+   gap: 0 1rem;
+}
+.filtros label {
+   grid-column: 1 / -1;
+   margin-bottom: 10px;
+   font-size: 16px;
+   font-weight: 500;
+}
+
+.filtros input[type='text'] {
+   flex-grow: 1;
+   padding: 15px 20px;
+   border-radius: 3px;
+   border: 1px solid #d0d0d0;
+}

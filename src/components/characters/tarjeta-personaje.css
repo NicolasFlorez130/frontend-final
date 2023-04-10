@@ -1,6 +1,11 @@
 .tarjeta-personaje {
   display: flex;
   flex-direction: column;
+  transition: .2s;
+}
+
+.tarjeta-personaje:hover {
+   scale: 1.02;
 }
 
 .tarjeta-personaje > img {

@@ -4,3 +4,7 @@
   grid-gap: 20px;
   justify-items: center;
 }
+
+.loading-gif{
+   grid-column: 1 / -1;
+}
